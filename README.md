@@ -1,4 +1,14 @@
-## Hi there 👋
+I’m a Computer Engineering student at Obafemi Awolowo University with a keen interest in Full stack web development. Over the past three years, I’ve been developing my skills through personal projects, working with a range of technologies:
+
+Skills:
+	•	Programming Languages: HTML, CSS, JavaScript, TypeScript, Python
+	•	Frameworks/Libraries: Bootstrap, SASS, Tailwind, React, Django (learning), Express (learning)
+	•	Databases: MySQL, MongoDB
+	•	Tools: Git (for version control)
+
+I’ve completed around 10 projects, each helping me improve in building responsive and user-friendly applications. As I continue my studies, I’m excited to deepen my expertise in both front-end and back-end development.
+
+I’m open to internships, mentorship, freelance roles and partnering on side projects.
 
 <!--
 **Ruseigha/RuSeigha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
